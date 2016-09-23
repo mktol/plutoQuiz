@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 /**
- * This is Main class for running all application
+ * This is General class for running application
  */
 public class MainApp extends Application{
     public static void main(String[] args) throws Exception {
